@@ -1,0 +1,5 @@
+{
+  "port" : 8008,
+  "DbUrl" : "mongodb://localhost/test",
+  "secret" : "am Batman"
+}
